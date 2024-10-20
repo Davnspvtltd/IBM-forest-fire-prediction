@@ -51,7 +51,7 @@ Predictive Results: After training the machine learning model, predictions for f
 The forecast results demonstrated that certain weather factors like high temperatures, low humidity, and wind speed significantly contribute to the spread of forest fires. Predictive accuracy was satisfactory for real-world fire risk assessment and prevention.
 
 
-### LIVE WEBSITE : https://ibm-forest-fire-prediction-zxkg.vercel.app/
+### LIVE WEBSITE : https://ibm-z-forest-fire-prediction-ibm.vercel.app/
 
 Image 1:
 ![WhatsApp Image 2024-10-20 at 09 43 59_5df90936](https://github.com/user-attachments/assets/91c56893-beb1-44ec-8301-e22e55b2bb4d)
