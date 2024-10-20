@@ -1,4 +1,16 @@
+# Node modules
 node_modules/
-__pycache__/
-*.pyc
-.env
+
+# JSON files (if you don't want to upload them)
+*.json
+
+# Python files
+*.py
+
+# Pickle files
+*.pkl
+
+# CSV files (if you don't want to upload them)
+*.csv
+
+# Any other files or directories you want to ignore
