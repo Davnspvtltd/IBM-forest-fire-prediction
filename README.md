@@ -26,7 +26,6 @@ Model Building: Machine learning models such as Random Forest or Gradient Boosti
 
 Forecasting: The trained models were used to forecast forest fire risks based on new weather data.
 
-live site: https://ibm-forest-fire-prediction-zxkg.vercel.app/
 
 # Output and Results
 forest_fires Dataset: The two datasets were successfully merged, resulting in a single dataset containing the following columns:
@@ -50,7 +49,15 @@ ISI (Initial Spread Index)
 Predictive Results: After training the machine learning model, predictions for future fire risks were obtained. These results were evaluated based on metrics such as accuracy, precision, recall, and F1-score.
 
 The forecast results demonstrated that certain weather factors like high temperatures, low humidity, and wind speed significantly contribute to the spread of forest fires. Predictive accuracy was satisfactory for real-world fire risk assessment and prevention.
-![alt text](<WhatsApp Image 2024-10-20 at 9.43.45 AM.jpeg>)![alt text](<WhatsApp Image 2024-10-20 at 9.45.02 AM.jpeg>)
+
+
+### LIVE WEBSITE : https://ibm-forest-fire-prediction-zxkg.vercel.app/
+
+![WhatsApp Image 2024-10-20 at 09 45 00_c9140bf9](https://github.com/user-attachments/assets/f64a3830-817e-46e0-b60e-11c99ef91b91)
+![WhatsApp Image 2024-10-20 at 09 43 43_dc7c2610](https://github.com/user-attachments/assets/3a24fdae-f806-4c2a-80b8-385b5cb95955)
+![WhatsApp Image 2024-10-20 at 09 43 59_5df90936](https://github.com/user-attachments/assets/91c56893-beb1-44ec-8301-e22e55b2bb4d)
+
+
 # Conclusion
 The project successfully merged and analyzed two weather datasets related to forest fires, providing valuable insights into the impact of meteorological conditions on fire risks. The predictive model developed in this project can be used as a tool for forecasting
 future fire risks based on weather data, which could aid in fire management strategies.
